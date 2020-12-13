@@ -1,0 +1,11 @@
+version: "3.7"
+
+services: 
+  sim:
+    container_name: bierproductie_sim
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+        - 4840:4840
+        - 8100:8100
