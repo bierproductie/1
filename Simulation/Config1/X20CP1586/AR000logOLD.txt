@@ -1,0 +1,19 @@
+
+
+Sun Dec 13 12:45:19 2020
+No ARsim registration found!
+  Bernecker & Rainer 
+
+
+
+Sun Dec 13 12:45:19 2020
+COMMAND_COLDSTART
+InstanceName : 01d6d1456ed7ec75
+
+WorkingPath :
+Z:\home\kkmp\Documents\SDU\semester_3\semester_projeckt\Simulation\Simulation\Config1\X20CP1586\
+
+
+
+Sun Dec 13 12:45:19 2020
+COMMAND_COLDSTART
